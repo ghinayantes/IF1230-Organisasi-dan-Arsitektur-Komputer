@@ -1,4 +1,4 @@
-# Laporan Praktikum 2: Organisasi dan Arsitektur Komputer
+# Praktikum 2: Organisasi dan Arsitektur Komputer
 **Nama:** Ghina Emelia Yantes  
 **NIM:** 13525119  
 **Status:** All Phases Conquered (10/10) ✅
